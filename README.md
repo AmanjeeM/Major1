@@ -1,2 +1,2 @@
 # Major1
-Cpp
+C++ Major1 Journal
